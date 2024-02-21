@@ -5,15 +5,12 @@ You can import these keys using [GnuPG](https://www.gnupg.org/download/index.htm
 ### PGP Public Key
 
 ```
-sec   brainpoolP512r1 2018-02-03 [SC] [expires: 2023-12-31]
+sec   brainpoolP512r1 2018-02-03 [SC] [expires: 2025-02-20]
       F6EDCBB1FB830F7B0E88C21129ED86E6F9CBBD4C
 uid           [ultimate] shikong <wudimenghuan@gmail.com>
-ssb   ed25519 2021-09-18 [S] [expires: 2022-12-31]
-ssb   cv25519 2021-09-18 [E] [expires: 2022-12-31]
-ssb   ed25519 2021-09-18 [A] [expires: 2022-12-31]
-ssb   ed448 2022-11-10 [S] [expires: 2023-12-31]
-ssb   cv448 2022-11-10 [E] [expires: 2023-12-31]
-ssb   ed448 2022-11-10 [A] [expires: 2023-12-31]
+ssb   ed25519 2024-02-21 [S] [expires: 2025-02-20]
+ssb   ed25519 2024-02-21 [A] [expires: 2025-02-20]
+ssb   cv25519 2024-02-21 [E] [expires: 2025-02-20]
 ```
 
-* [Download Public Key](https://raw.githubusercontent.com/wudimenghuan/info/master/F6EDCBB1FB830F7B0E88C21129ED86E6F9CBBD4C.asc)
+* [Download Public Key](https://raw.githubusercontent.com/wudimenghuan/info/master/shikong_0xF9CBBD4C_public.asc)
